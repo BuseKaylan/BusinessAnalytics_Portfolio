@@ -4,17 +4,17 @@ Welcome to my GitHub repository! This portfolio showcases my latest projects in 
 
 ## Projects
 
-### Project 1: [Linear Programming Problems]
+### Project 1: Linear Programming Problems
 
 - Description: In this document, you can find linear programming problems and their solutions.
 - Technologies Used: Python - PuLP, Numpy
 
-### Project 2: [Integer Programming and Decision Analysis]
+### Project 2: Integer Programming and Decision Analysis
 
 - Description: This documents contain integer programming and decision analysis problems.
 - Technologies Used: Python - PuLP, SciPy
 
-### Project 3: [Polynomial Models and Validation]
+### Project 3: Polynomial Models and Validation
 
 - Description: You can find polynomial ML model and validation of data.
 - Technologies Used: Python - Numpy, Matplotlib, Scikit Learn
