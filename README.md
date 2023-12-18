@@ -1,4 +1,4 @@
-# Level2_Portfolio
+# Business Analytics Portfolio
 
 Welcome to my GitHub repository! This portfolio showcases my latest projects in the fields of business analytics and Python programming. I am passionate about leveraging data to gain insights and solve real-world problems.
 
