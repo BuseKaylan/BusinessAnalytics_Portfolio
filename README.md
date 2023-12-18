@@ -28,4 +28,4 @@ I have exciting plans to explore and work on projects using R-studio in the comi
 Feel free to reach out to me if you have any questions, suggestions, or collaboration opportunities.
 
 - Email: busekaylan@gmail.com
-- LinkedIn: ([https://www.linkedin.com/in/yourusername/](https://www.linkedin.com/in/buse-kaylan-60b468161/)https://www.linkedin.com/in/buse-kaylan-60b468161/)
+- LinkedIn: (https://www.linkedin.com/in/yourusername/(https://www.linkedin.com/in/buse-kaylan-60b468161/)https://www.linkedin.com/in/buse-kaylan-60b468161/)
