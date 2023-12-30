@@ -14,6 +14,11 @@ Welcome to my GitHub repository! This portfolio showcases my latest projects in 
 - Description: You can find polynomial ML model and validation of data.
 - Technologies Used: Python - Numpy, Matplotlib, Scikit Learn
 
+### Project 3: Cross Validation for Polynomial Model and KNN
+
+- Description: This project aims that fitting best ML model for dataset via cross validation.
+- Technologies Used: Python - Numpy, Matplotlib, Scikit Learn
+
 ## Future Plans
 
 I have exciting plans to explore and work on projects using R-studio in the coming days. Stay tuned for more updates!
